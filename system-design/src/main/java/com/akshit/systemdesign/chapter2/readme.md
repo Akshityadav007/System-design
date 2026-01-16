@@ -1,3 +1,5 @@
+* No design is wrong! *
+
 #  UML Basic notation
 
 1. Class: The notation represents the attributes and methods of an object.
@@ -51,3 +53,16 @@
 ![img_18.png](img_18.png)
 ![img_19.png](img_19.png)
 ![img_20.png](img_20.png)
+
+## Sequence Diagram
+![img_21.png](img_21.png)
+![img_22.png](img_22.png)
+![img_23.png](img_23.png)
+![img_24.png](img_24.png)
+![img_25.png](img_25.png)
+![img_26.png](img_26.png)
+![img_27.png](img_27.png)
+![img_28.png](img_28.png)
+![img_29.png](img_29.png)
+![img_30.png](img_30.png)
+![img_31.png](img_31.png)
