@@ -66,3 +66,21 @@
 ![img_29.png](img_29.png)
 ![img_30.png](img_30.png)
 ![img_31.png](img_31.png)
+![img_32.png](img_32.png)
+![img_33.png](img_33.png)
+![img_34.png](img_34.png)
+- Best practice is to have multiple Sequence diagrams for a large process. Each sequence diagram can explain a single functionality.
+
+## Activity Diagram
+- This is basically a flowchart with extended functionalities.
+![img_35.png](img_35.png)
+![img_36.png](img_36.png)
+![img_37.png](img_37.png)
+![img_38.png](img_38.png)
+![img_39.png](img_39.png)
+![img_40.png](img_40.png)
+![img_41.png](img_41.png)
+![img_42.png](img_42.png)
+![img_43.png](img_43.png)
+![img_44.png](img_44.png)
+![img_45.png](img_45.png)
