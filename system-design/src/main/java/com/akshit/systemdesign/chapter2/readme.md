@@ -1,4 +1,4 @@
-* No design is wrong! *
+* ## No design is wrong!
 
 #  UML Basic notation
 
