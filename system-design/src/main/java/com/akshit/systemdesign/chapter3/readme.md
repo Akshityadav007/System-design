@@ -9,4 +9,11 @@
 - Cyclomatic complexity: The no. of branches in your code due to if/else or Switch statements. The lesser the cyclomatic complexity, the better your code.
 - Down-casting is a bad thing.
 - Type checking is anti abstraction.
+## Liskov Substitution Principle (LSP)
 ![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+## Interface Segregation principle
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+## Dependency inversion principle
+![img_7.png](img_7.png)
