@@ -1,4 +1,5 @@
 ## Java
+![img.png](img.png)
 
 ### Abstract class
 - An abstract class is a restricted base class in object-oriented programming that cannot be instantiated (used to create objects) and is designed to be inherited by subclasses. 
