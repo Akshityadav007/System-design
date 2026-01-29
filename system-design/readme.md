@@ -6,6 +6,7 @@
 - It acts as a blueprint, allowing for a mix of abstract methods (without bodies) and concrete methods (with implementations) to enforce a common, mandatory structure for child classes.
 - They can contain abstract methods (must be implemented by subclasses) and concrete methods (regular methods with code).
 - Subclasses must implement all abstract methods, or they must also be declared abstract.
+- Note: Non-abstract methods can be left (not defined) in subclasses. This is where the difference comes from an interface as we can have non-abstract methods also in an abstract class.
 
 ### Interface
 - An Interface in Java is an abstract type that defines a set of methods a class must implement.

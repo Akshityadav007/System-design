@@ -1,13 +1,16 @@
-# Introduction to Design Patterns - Factory & Abstract Factory Pattern
+# Introduction to Design Patterns
 
 ## Design pattern
 - It is a standardized template to write clean code that is easily understandable.
 - These are invented to solve frequently occurring design problems with code.
 
 ### Categorisation
-1. Creational - Focus is on encapsulation of object creation process i.e. how we are preparing our object to be served to the client.
+1. Creational
 2. Structural
 3. Behavioural
+
+## Creational Design patterns
+- Focus is on encapsulation of object creation process i.e. how we are preparing our object to be served to the client.
 
 ## Factory Pattern
 - There are 3 types of Factory Method patterns:
