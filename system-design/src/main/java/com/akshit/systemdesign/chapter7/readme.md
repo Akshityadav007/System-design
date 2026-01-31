@@ -2,12 +2,15 @@
 - Focus is on object interaction and responsibility delegation.
 
 ### Types
-1. Chain of responsibility (COR)
-2. Command
-3. Observer
+1. **Chain of responsibility (COR)**
+2. **Command**
+3. **Observer**
 4. Mediator
 5. Iterator
 6. Visitor
+7. **Strategy** ⭐
+8. State - Different from Strategy
+9. Template
 
 ### 1. Chain of responsibility
 - Focus is on propagation of requests to different objects within the system.

@@ -3,10 +3,10 @@
 - Basic focus is on structuring of a class.
 
 ## Types
-1. Decorator pattern
-2. Adapter pattern
-3. Proxy pattern
-4. Facade pattern 
+1. **Decorator pattern**⭐
+2. **Adapter pattern**
+3. **Proxy pattern**
+4. **Facade pattern**
 5. Bridge pattern 
 6. Composite pattern 
 7. Flyweight pattern

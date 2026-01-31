@@ -4,13 +4,19 @@
 - It is a standardized template to write clean code that is easily understandable.
 - These are invented to solve frequently occurring design problems with code.
 
-### Categorisation
+## Categorisation
 1. Creational
 2. Structural
 3. Behavioural
 
 ## Creational Design patterns
 - Focus is on encapsulation of object creation process i.e. how we are preparing our object to be served to the client.
+
+### Types
+1. **Factory / abstract factory** ⭐
+2. **Builder**
+3. **Singleton**
+4. Prototype
 
 ## Factory Pattern
 - There are 3 types of Factory Method patterns:
