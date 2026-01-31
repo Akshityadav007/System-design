@@ -38,3 +38,25 @@
 - In this pattern, we create an interface to interact with a complex/complicated system.
 - The goal is to provide a simple interface for a complex system having multiple system.
 - To **hide the underlying complexity**.
+
+### Bridge pattern
+- We use this to decouple abstraction from implementation.
+- Bridge pattern lets you vary the abstraction (abstract/interface) from implementation (concrete class).
+- This pattern is applied while implementation and adapter pattern is applied after the system has been deployed.
+- This pattern promotes decoupling in system. More the coupling more the cohesion.
+![img_5.png](img_5.png)
+![img_4.png](img_4.png)
+
+### Composite pattern
+- Composite means made up of various elements.
+- Whenever we face a situation where the structure resembles a tree like structure, and we want to treat 'whole' and 'parts' similar in it, then we use this pattern.
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+
+### Flyweight pattern
+- Flyweight means light-weight category in boxing.
+- The intention is to save memory.
+- Intrinsic property: Properties that do not change with the change in context.
+- Extrinsic property: Properties that change with the change in context.
+- **Intrinsic property should have shared memory for all objects.**
+- We can achieve this by using function calls.
