@@ -15,7 +15,6 @@
 
 ## Multithreading, concurrency
 -  Java provides different mechanisms, such as synchronized, volatile, and atomic variables, to handle shared data across threads.
-- 
 
 ### Synchronized, Volatile, Atomic
 
@@ -41,7 +40,7 @@
 | **Performance** | Lower (due to locking) | Higher than synchronized | Higher than both synchronized and volatile |
 | **Concurrency** | Prone to deadlocks/livelocks | Immune (no locks) | Immune (no locks) |
 
-### Race condition
+
 #### 🔗 Reference: Race Condition Vulnerability
 [![Read on GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Race%20Condition%20Vulnerability-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/operating-systems/race-condition-vulnerability/)
 
