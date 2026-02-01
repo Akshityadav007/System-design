@@ -41,3 +41,13 @@
 - This pattern focuses only on interested entities, while COR pattern send info to all entities.
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
+
+### 5. Iterator pattern
+- Iterate means perform a task repeatedly.
+- By this pattern, we achieve a standard way to iterate over the collection without showing the underlying implementation.
+
+### 6. Visitor pattern
+- This is used to resolve the issue of Double dispatch.
+- In our code, first dispatch tells which accept method to call - Scorpio or ALto ?, the second dispatch is achieved when the visitor type is received - InsuranceVisitor or DepreciationVisitor.
+- Basically a second level of method selection.
+![img_5.png](img_5.png)
