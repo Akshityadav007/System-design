@@ -2,9 +2,31 @@
 .idea/
 *.iml
 
-# Maven
+# VS Code
+.vscode/
+
+# Java / Maven
 target/
+**/target/
 !.mvn/wrapper/maven-wrapper.jar
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
 
 # Logs
 *.log
